@@ -1,0 +1,103 @@
+
+[
+    {
+        "id": 0,
+        "titulo": "CARNE 1kg",
+        "descricao": "Carne, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/c1.png",
+        "preco": "45.00"
+    },
+    {
+        "id": 1,
+        "titulo": "CARNE 1/2kg",
+        "descricao": "Carne ,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/c5.png",
+        "preco": "32.00"
+    },
+    {
+        "id": 2,
+       "titulo": "FRANGO 1Kg",
+        "descricao": "Frango ,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/f1.png",
+        "preco": "38.00"
+    },
+    {
+        "id": 3,
+        "titulo": "FRANGO 1/2kg",
+        "descricao": "Frango ,legumes (Repolho, acelga, couve-flor, brócolis e cenoura),macarrão, molho",
+        "imagem": "../images/f5.png",
+        "preco": "26.00"
+    },
+    {
+        "id": 4,
+        "titulo": "Linguiça Toscana 1kg",
+        "descricao": "Linguiça Toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/l1.png",
+        "preco": "38.00"
+    },
+    {
+        "id": 5,
+        "titulo": "Linguiça Toscana 1/2kg",
+        "descricao": "Linguiça Toscana,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/l5.png",
+        "preco": "26.00"
+    },
+    {
+        "id": 6,
+        "titulo": "CARNE E FRANGO 1kg",
+        "descricao": "Carne, frango, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/misto.png",
+        "preco": "45.00"
+    },
+    {
+        "id": 7,
+        "titulo": "CARNE E LINGUIÇA 1kg",
+        "descricao": "Carne, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/misto.png",
+        "preco": "45.00"
+    },
+    {
+        "id": 8,
+          "titulo": "FRANGO E LINGUIÇA 1kg",
+        "descricao": "Frango, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/misto.png",
+        "preco": "45.00"
+    },
+      {
+        "id": 9,
+        "titulo": "VEGETARIANO 1kg",
+        "descricao": "Legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/v1.png",
+        "preco": "36.00"
+    },
+      {
+        "id": 10,
+        "titulo": "VEGETARIANO 1/2kg",
+        "descricao": "Legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/v5.png",
+        "preco": "24.00"
+    },
+      {
+        "id": 11,
+        "titulo": "PORÇÃO DE ARROZ 1/2kg",
+        "descricao": "Porção de arroz",
+        "imagem": "../images/arroz.png",
+        "preco": "8.00"
+    },
+    {
+        "id": 12,
+         "titulo": "Refrigerante em Lata",
+        "descricao": "Refrigerante lata 350ml",
+        "imagem": "../images/lata.png",
+        "preco": "5.00"
+    },
+    {
+        "id": 13,
+        "titulo": "Refrigerante 2 Litros",
+        "descricao": "Refrigerante 2 Litros",
+        "imagem": "../images/litro.png"
+    }
+       
+ 
+]
+
