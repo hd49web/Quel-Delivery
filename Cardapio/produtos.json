@@ -65,14 +65,14 @@
     },
     {
         "id": 9,
-        "titulo": "Carne e Linguiça 1kg",
+        "titulo":"Carne e Linguiça 1kg",
         "descricao": "Carne, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/misto.PNG",
         "preco": "45.00"
     },
     {
         "id": 10,
-          "titulo": "Frango e Linguiça 1kg",
+        "titulo":"Frango e Linguiça 1kg",
         "descricao": "Frango, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/misto.PNG",
         "preco": "45.00"
