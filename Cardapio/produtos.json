@@ -75,7 +75,7 @@
         "titulo":"Frango e Linguiça 1kg",
         "descricao": "Frango, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/misto.PNG",
-        "preco": "45.00"
+        "preco":"45.00"
     },
     {
         "id": 11,
@@ -114,7 +114,7 @@
     },
     {
         "id": 16,
-         "titulo": "Refrigerante em Lata",
+         "titulo": "Refrigerante Lata",
         "descricao": "Refrigerante lata 350ml",
         "imagem": "../images/lata.PNG",
         "preco": "5.00"
