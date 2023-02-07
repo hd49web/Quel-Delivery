@@ -44,6 +44,7 @@
     },
     {
         "id": 6,
+<<<<<<< HEAD
         "titulo": "PERNIL 1kg",
         "descricao": "Pernil,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão japonês, molho especial",
         "imagem": "../images/p1.JPG",
@@ -60,6 +61,24 @@
         "id": 8,
         "titulo": "CARNE E FRANGO 1kg",
         "descricao": "Carne, frango, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+=======
+        "titulo": "CARNE E FRANGO 1kg",
+        "descricao": "Carne, frango, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/misto.PNG",
+        "preco": "45.00"
+    },
+    {
+        "id": 7,
+        "titulo": "CARNE E LINGUIÇA 1kg",
+        "descricao": "Carne, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+        "imagem": "../images/misto.PNG",
+        "preco": "45.00"
+    },
+    {
+        "id": 8,
+          "titulo": "FRANGO E LINGUIÇA 1kg",
+        "descricao": "Frango, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
+>>>>>>> 5f6ce28ba1564e9b9f1914aabf70f8ee91028010
         "imagem": "../images/misto.PNG",
         "preco": "45.00"
     },
