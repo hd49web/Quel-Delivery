@@ -93,8 +93,8 @@
     },
     {
         "id": 13,
-        "titulo": "PORÇÃO DE ARROZ 1/2kg",
-        "descricao": "Porção de arroz",
+        "titulo": "PORÇÃO DE ARROZ",
+        "descricao": "Porção de arroz 1/2kg",
         "imagem": "../images/arroz.png",
         "preco": "8.00"
     },
