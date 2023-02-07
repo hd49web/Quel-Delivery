@@ -16,7 +16,7 @@
     },
     {
         "id": 2,
-       "titulo": "FRANGO 1Kg",
+        "titulo": "FRANGO 1Kg",
         "descricao": "Frango ,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/f1.PNG",
         "preco": "38.00"
@@ -44,7 +44,6 @@
     },
     {
         "id": 6,
-<<<<<<< HEAD
         "titulo": "PERNIL 1kg",
         "descricao": "Pernil,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão japonês, molho especial",
         "imagem": "../images/p1.JPG",
@@ -61,24 +60,6 @@
         "id": 8,
         "titulo": "CARNE E FRANGO 1kg",
         "descricao": "Carne, frango, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
-=======
-        "titulo": "CARNE E FRANGO 1kg",
-        "descricao": "Carne, frango, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
-        "imagem": "../images/misto.PNG",
-        "preco": "45.00"
-    },
-    {
-        "id": 7,
-        "titulo": "CARNE E LINGUIÇA 1kg",
-        "descricao": "Carne, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
-        "imagem": "../images/misto.PNG",
-        "preco": "45.00"
-    },
-    {
-        "id": 8,
-          "titulo": "FRANGO E LINGUIÇA 1kg",
-        "descricao": "Frango, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
->>>>>>> 5f6ce28ba1564e9b9f1914aabf70f8ee91028010
         "imagem": "../images/misto.PNG",
         "preco": "45.00"
     },
@@ -96,22 +77,21 @@
         "imagem": "../images/misto.PNG",
         "preco": "45.00"
     },
-    
-      {
+    {
         "id": 11,
         "titulo": "VEGETARIANO 1kg",
         "descricao": "Legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/v1.PNG",
         "preco": "36.00"
     },
-      {
+    {
         "id": 12,
         "titulo": "VEGETARIANO 1/2kg",
         "descricao": "Legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/v5.PNG",
         "preco": "24.00"
     },
-       {
+    {
         "id": 13,
         "titulo": "PORÇÃO DE ARROZ 1/2kg",
         "descricao": "Porção de arroz",
@@ -145,7 +125,5 @@
         "descricao": "Refrigerante 2 Litros",
         "imagem": "../images/litro.PNG"
     }
-     
- 
-]
+ ]
 
