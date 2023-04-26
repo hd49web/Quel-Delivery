@@ -5,122 +5,129 @@
         "titulo": "CARNE 1kg",
         "descricao": "Carne, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/c1.PNG",
-        "preco": "45.00"
+        "preco": "47.00"
     },
     {
         "id": 1,
         "titulo": "CARNE 1/2kg",
         "descricao": "Carne ,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/c5.PNG",
-        "preco": "32.00"
+        "preco": "34.00"
     },
     {
         "id": 2,
         "titulo": "FRANGO 1Kg",
         "descricao": "Frango ,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/f1.PNG",
-        "preco": "38.00"
+        "preco": "40.00"
     },
     {
         "id": 3,
         "titulo": "FRANGO 1/2kg",
         "descricao": "Frango ,legumes (Repolho, acelga, couve-flor, brócolis e cenoura),macarrão, molho",
         "imagem": "../images/f5.PNG",
-        "preco": "26.00"
+        "preco": "28.00"
     },
     {
         "id": 4,
         "titulo": "Linguiça Toscana 1kg",
         "descricao": "Linguiça Toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/l1.PNG",
-        "preco": "38.00"
+        "preco": "40.00"
     },
     {
         "id": 5,
         "titulo": "Linguiça Toscana 1/2kg",
         "descricao": "Linguiça Toscana,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/l5.PNG",
-        "preco": "26.00"
+        "preco": "28.00"
     },
     {
         "id": 6,
         "titulo": "PERNIL 1kg",
         "descricao": "Pernil,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão japonês, molho especial",
         "imagem": "../images/p1.JPG",
-        "preco": "38.00"
+        "preco": "40.00"
     },
     {
         "id": 7,
         "titulo": "PERNIL 1/2kg",
         "descricao": "Pernil,legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão japonês, molho especial",
         "imagem": "../images/p2.JPG",
-        "preco": "26.00"
+        "preco": "28.00"
     },
     {
         "id": 8,
         "titulo": "Carne e Frango 1kg",
         "descricao": "Carne, frango, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/misto.PNG",
-        "preco": "45.00"
+        "preco": "47.00"
     },
     {
         "id": 9,
         "titulo":"Carne Linguiça 1kg",
         "descricao": "Carne, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/misto.PNG",
-        "preco": "45.00"
+        "preco": "47.00"
     },
     {
         "id": 10,
         "titulo":"Frango Linguiça 1kg",
         "descricao": "Frango, linguiça toscana, legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/misto.PNG",
-        "preco":"45.00"
+        "preco":"47.00"
     },
     {
         "id": 11,
         "titulo": "VEGETARIANO 1kg",
         "descricao": "Legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/v1.PNG",
-        "preco": "36.00"
+        "preco": "38.00"
     },
     {
         "id": 12,
         "titulo": "VEGETARIANO 1/2kg",
         "descricao": "Legumes (Repolho, acelga, couve-flor, brócolis e cenoura), macarrão, molho",
         "imagem": "../images/v5.PNG",
-        "preco": "24.00"
+        "preco": "26.00"
     },
     {
         "id": 13,
-        "titulo": "PORÇÃO DE ARROZ",
-        "descricao": "Porção de arroz 1/2kg",
-        "imagem": "../images/arroz.png",
-        "preco": "8.00"
+        "titulo": "FRANGO XADREZ 1kg",
+        "descricao": "Frango, pimentão amarelo, vermelho, verde, molho especial e arroz branco",
+        "imagem": "../images/fx1.PNG",
+        "preco": "42.00"
     },
     {
         "id": 14,
-        "titulo": "PORÇÃO DE GYOZA",
-        "descricao": "Porção de Gyoza com 06 unidades",
-        "imagem": "../images/g.JPG",
-        "preco": "19.00"
+        "titulo": "FRANGO XADREZ 1/2kg",
+        "descricao": "Frango, pimentão amarelo, vermelho, verde, molho especial e arroz branco",
+        "imagem": "../images/fx2.PNG",
+        "preco": "31.00"
     },
     {
         "id": 15,
-        "titulo": "SUNOMONO",
-        "descricao": "Sunomono de Pepino",
-        "imagem": "../images/s.JPG",
-        "preco": "12.00"
+        "titulo": "PORÇÃO DE GYOZA",
+        "descricao": "Porção de Gyoza com 06 unidades",
+        "imagem": "../images/g.JPG",
+        "preco": "21.00"
     },
     {
         "id": 16,
+        "titulo": "SUNOMONO",
+        "descricao": "Sunomono de Pepino",
+        "imagem": "../images/s.JPG",
+        "preco": "14.00"
+    },
+    {
+        "id": 17,
          "titulo": "Refrigerante Lata",
         "descricao": "Refrigerante lata 350ml",
         "imagem": "../images/lata.PNG",
         "preco": "5.00"
     },
     {
-        "id": 17,
+        "id": 18,
         "titulo": "Refrigerante 2 Litros",
         "descricao": "Refrigerante 2 Litros",
         "imagem": "../images/litro.PNG"
