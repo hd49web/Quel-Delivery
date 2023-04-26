@@ -93,14 +93,14 @@
     },
     {
         "id": 13,
-        "titulo": "FRANGO XADREZ 1kg",
+        "titulo": "Frango Xadrez-1kg",
         "descricao": "Frango, pimentão amarelo, vermelho, verde, molho especial e arroz branco",
         "imagem": "../images/fx1.PNG",
         "preco": "42.00"
     },
     {
         "id": 14,
-        "titulo": "FRANGO XADREZ 1/2kg",
+        "titulo": "Frango Xadrez-1/2kg",
         "descricao": "Frango, pimentão amarelo, vermelho, verde, molho especial e arroz branco",
         "imagem": "../images/fx2.PNG",
         "preco": "31.00"
