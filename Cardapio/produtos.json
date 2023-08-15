@@ -121,16 +121,267 @@
     },
     {
         "id": 17,
+         "titulo": "A Moda do Japa",
+        "descricao": "Mussarela, requeijão, milho, calabresa, cebola bacon e azeitona ",
+        "imagem": "../images/pmj.jpg",
+        "preco": "56.00"
+    },
+   {
+        "id": 18,
+         "titulo": "Atum com Mussarela",
+        "descricao": "Atum temperado, mussarela, cebola e azeitona ",
+        "imagem": "../images/pam.jpg",
+        "preco": "55.00"
+    },
+    {
+        "id": 19,
+         "titulo": "Brócolis com bacom",
+        "descricao": "Brócolis, bacon, mussarela, alho e azeitona ",
+        "imagem": "../images/pbb.jpeg",
+        "preco": "45.00"
+    },
+    {
+        "id": 20,
+         "titulo": "Calabresa",
+        "descricao": "Calabresa, cebola e azeitona ",
+        "imagem": "../images/pc.jpg",
+        "preco": "44.00"
+    },
+    {
+        "id": 21,
+         "titulo": "Calabresa Mussarela",
+        "descricao": "Calabresa, mussarela, cebola e azeitona ",
+        "imagem": "../images/pcm.jpg",
+        "preco": "48.00"
+    },
+    {
+        "id": 22,
+         "titulo": "Calabresa Requeijão",
+        "descricao": "Calabresa, requeijão, cebola e azeitona ",
+        "imagem": "../images/calabresa.jpeg",
+        "preco": "50.00"
+    },
+    {
+        "id": 23,
+         "titulo": "Dois queijos",
+        "descricao": "Mussarela, requeijão",
+        "imagem": "../images/p2q.jpeg",
+        "preco": "46.00"
+    },
+    {
+        "id": 24,
+         "titulo": "Frango com chelddar",
+        "descricao": "Frango, chelddar e azeitona", 
+        "imagem": "../images/pfc.jpg",
+        "preco": "50.00"
+    },
+    {
+        "id": 25,
+         "titulo": "Frango japa",
+        "descricao": "Frango, milho, mussarela, requeijão, bacon e azeitona", 
+        "imagem": "../images/pfj.jpeg",
+        "preco": "55.00"
+    },
+    {
+        "id": 26,
+         "titulo": "Frango com mussarela",
+        "descricao": "Frango, mussarela e azeitona", 
+        "imagem": "../images/pfm.jpg",
+        "preco": "48.00"
+    },
+    {
+        "id": 27,
+         "titulo": "Frango com requeijão",
+        "descricao": "Frango, requeijão e azeitona", 
+        "imagem": "../images/pfr.jpg",
+        "preco": "50.00"
+    },
+    {
+        "id": 28,
+         "titulo": "Musssarela",
+        "descricao": "Mussarela, tomate e azeitona", 
+        "imagem": "../images/pm.jpg",
+        "preco": "43.00"
+    },
+    {
+        "id": 29,
+         "titulo": "Portuguesa",
+        "descricao": "Mussarela, presunto, ervilha, ovo, cebola e azeitona", 
+        "imagem": "../images/pp.jpeg",
+        "preco": "48.00"
+    },
+    {
+        "id": 30,
+         "titulo": "Três queijos",
+        "descricao": "Mussarela, requeijão e cheddar", 
+        "imagem": "../images/p3q.jpg",
+        "preco": "50.00"
+    },
+    {
+        "id": 31,
+         "titulo": "Atum com Mussarela",
+        "descricao": "Atum temperado, mussarela, cebola e azeitona (Broto)",
+        "imagem": "../images/pamb.jpg",
+        "preco": "40.00"
+    },
+    {
+        "id": 32,
+         "titulo": "Brócolis com bacom",
+        "descricao": "Brócolis, bacon, mussarela, alho e azeitona(Broto) ",
+        "imagem": "../images/pbbb.jpg",
+        "preco": "32.00"
+    },
+    {
+        "id": 33,
+         "titulo": "A Moda do Japa",
+        "descricao": "Mussarela, requeijão, milho, calabresa, cebola bacon e azeitona (Broto)",
+        "imagem": "../images/pmjb.jpg",
+        "preco": "42.00"
+    },
+    {
+        "id": 34,
+         "titulo": "Calabresa",
+        "descricao": "Calabresa, cebola e azeitona (Broto)",
+        "imagem": "../images/pcb.jpg",
+        "preco": "31.00"
+    },
+    {
+        "id": 35,
+         "titulo": "Calabresa Mussarela",
+        "descricao": "Calabresa, mussarela, cebola e azeitona(Broto) ",
+        "imagem": "../images/pcmb.jpg",
+        "preco": "34.00"
+    },
+    {
+        "id": 36,
+         "titulo": "Calabresa Requeijão",
+        "descricao": "Calabresa, requeijão, cebola e azeitona (Broto)",
+        "imagem": "../images/calabresab.jpg",
+        "preco": "36.00"
+    },
+    {
+        "id": 37,
+         "titulo": "Dois queijos",
+        "descricao": "Mussarela, requeijão(Broto)",
+        "imagem": "../images/p2qb.jpg",
+        "preco": "33.00"
+    },
+    {
+        "id": 38,
+         "titulo": "Frango  chelddar",
+        "descricao": "Frango, chelddar e azeitona(Broto)", 
+        "imagem": "../images/pfcb.jpg",
+        "preco": "38.00"
+    },
+    {
+        "id": 39,
+         "titulo": "Frango japa",
+        "descricao": "Frango, milho, mussarela, requeijão, bacon e azeitona(Broto)", 
+        "imagem": "../images/pfjb.jpg",
+        "preco": "40.00"
+    },
+    {
+        "id": 40,
+         "titulo": "Frango mussarela",
+        "descricao": "Frango, mussarela e azeitona(Broto)", 
+        "imagem": "../images/pfmb.jpg",
+        "preco": "34.00"
+    },
+    {
+        "id": 41,
+         "titulo": "Frango com requeijão",
+        "descricao": "Frango, requeijão e azeitona(Broto)", 
+        "imagem": "../images/pfrb.jpg",
+        "preco": "36.00"
+    },
+    {
+        "id": 42,
+         "titulo": "Musssarela",
+        "descricao": "Mussarela, tomate e azeitona(Broto)", 
+        "imagem": "../images/pmb.jpg",
+        "preco": "30.00"
+    },
+    {
+        "id": 43,
+         "titulo": "Portuguesa",
+        "descricao": "Mussarela, presunto, ervilha, ovo, cebola e azeitona(Broto)", 
+        "imagem": "../images/ppb.jpg",
+        "preco": "34.00"
+    },
+    {
+        "id": 44,
+         "titulo": "Três queijos",
+        "descricao": "Mussarela, requeijão e cheddar(Broto)", 
+        "imagem": "../images/p3qb.jpg",
+        "preco": "38.00"
+    },
+    {
+        "id": 45,
+         "titulo": "Brigadeiro",
+        "descricao": "Chocolate ao leite e granulado(Doce)", 
+        "imagem": "../images/pbrig.jpeg",
+        "preco": "39.00"
+    },
+    {
+        "id": 46,
+         "titulo": "Japinha",
+        "descricao": "Chocolate ao leite e m&m´s(Doce)", 
+        "imagem": "../images/pj.jpeg",
+        "preco": "48.00"
+    },
+    {
+        "id": 47,
+         "titulo": "Nevada",
+        "descricao": "Banana, chocolate branco e canela(Doce)", 
+        "imagem": "../images/pbv.jpeg",
+        "preco": "48.00"
+    },
+    {
+        "id": 48,
+         "titulo": "Romeu e Julieta",
+        "descricao": "Mussaela e goiabada(Doce)", 
+        "imagem": "../images/prj.jpg",
+        "preco": "42.00"
+    },
+    {
+        "id": 49,
+         "titulo": "Brigadeiro",
+        "descricao": "Chocolate ao leite e granulado(Doce Broto)", 
+        "imagem": "../images/pbrigb.jpg",
+        "preco": "26.00"
+    },
+    {
+        "id": 50,
+         "titulo": "Japinha",
+        "descricao": "Chocolate ao leite e m&m´s(Doce Broto)", 
+        "imagem": "../images/pjb.jpg",
+        "preco": "36.00"
+    },
+    {
+        "id": 51,
+         "titulo": "Nevada",
+        "descricao": "Banana, chocolate branco e canela(Doce Broto)", 
+        "imagem": "../images/pbvb.jpg",
+        "preco": "32.00"
+    },
+    {
+        "id": 52,
+         "titulo": "Romeu e Julieta",
+        "descricao": "Mussaela e goiabada(Doce Broto)", 
+        "imagem": "../images/prjb.jpg",
+        "preco": "30.00"
+    },
+    {
+        "id": 53,
          "titulo": "Refrigerante Lata",
         "descricao": "Refrigerante lata 350ml",
         "imagem": "../images/lata.PNG",
         "preco": "5.00"
     },
     {
-        "id": 18,
+        "id": 54,
         "titulo": "Refrigerante 2 Litros",
         "descricao": "Refrigerante 2 Litros",
         "imagem": "../images/litro.PNG"
     }
  ]
-
