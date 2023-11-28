@@ -373,13 +373,55 @@
     },
     {
         "id": 53,
+         "titulo": "COMBO SIMPLES 6 UNIDADES",
+        "descricao": "TODOS OS SABORES SEM MUSSARELA E SEM REQUEIJÃO", 
+        "imagem": "../images/esf062.jpg",
+        "preco": "29.99 "
+    },
+    {
+        "id": 54,
+        "titulo": "COMBO ESPECIAL 6 UNIDADES",
+       "descricao": "TODOS OS SABORES COM MUSSARELA OU REQUEIJÃO", 
+       "imagem": "../images/esf062.jpg",
+       "preco": "35.99 "
+    },
+    {
+        "id": 55,
+         "titulo": "COMBO SIMPLES 10 UNIDADES",
+        "descricao": "TODOS OS SABORES SEM MUSSARELA E SEM REQUEIJÃO", 
+        "imagem": "../images/esf10.jpg",
+        "preco": "49.99 "
+    },
+    {
+        "id": 56,
+        "titulo": "COMBO ESPECIAL 10 UNIDADES",
+       "descricao": "TODOS OS SABORES COM MUSSARELA OU REQUEIJÃO", 
+       "imagem": "../images/esf10.jpg",
+       "preco": "59.99 "
+    },
+    {
+        "id": 57,
+         "titulo": "COMBO SIMPLES 15 UNIDADES",
+        "descricao": "TODOS OS SABORES SEM MUSSARELA E SEM REQUEIJÃO", 
+        "imagem": "../images/esf15.jpg",
+        "preco": "74.99 "
+    },
+    {
+        "id": 58,
+        "titulo": "COMBO ESPECIAL 15 UNIDADES",
+       "descricao": "TODOS OS SABORES COM MUSSARELA OU REQUEIJÃO", 
+       "imagem": "../images/esf15.jpg",
+       "preco": "89.99 "
+    },
+    {
+        "id": 59,
          "titulo": "Refrigerante Lata",
         "descricao": "Refrigerante lata 350ml",
         "imagem": "../images/lata.PNG",
         "preco": "5.00"
     },
     {
-        "id": 54,
+        "id": 60,
         "titulo": "Refrigerante 2 Litros",
         "descricao": "Refrigerante 2 Litros",
         "imagem": "../images/litro.PNG"
